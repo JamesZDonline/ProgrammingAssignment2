@@ -1,7 +1,9 @@
-## Put comments here that give an overall description of what your
-## functions do
+## These functions create a new matrix object that
+## stores a matrix and caches its inverse
 
-## Write a short comment describing this function
+## This function, called makeCacheMatrix, contains a 
+## set of functions that get and set the value of the
+## matrix and its inverse
 
 makeCacheMatrix <- function(x = matrix()) {
 
